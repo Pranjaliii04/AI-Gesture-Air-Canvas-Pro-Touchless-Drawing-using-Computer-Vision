@@ -36,4 +36,15 @@ AI Gesture Air Canvas Pro is a computer vision-based system that allows users to
 
 ### 1. Install dependencies
 ```bash
-pip install opencv-python mediapipe   
+pip install opencv-python mediapipe
+
+
+### 2. Download models
+```bash
+python download_models.py
+
+### 3. Run Project
+```bash
+python main.py
+
+
